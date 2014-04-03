@@ -1,0 +1,1 @@
+CREATE DATABASE url_shortener_jenny_allar;
